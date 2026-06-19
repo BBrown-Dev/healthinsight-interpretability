@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.env/
+
+# PyCharm
+.idea/
+
+# Data
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
